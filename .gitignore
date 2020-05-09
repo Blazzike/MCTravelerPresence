@@ -1,0 +1,5 @@
+# Builds
+build/
+
+# JetBrains Configuration
+.idea/
